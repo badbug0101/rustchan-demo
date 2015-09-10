@@ -1,0 +1,4 @@
+[package]
+name = "rustchan-demo"
+version = "0.1.0"
+authors = ["Ishwor Gurung <isg@email.badbug.id.au>"]
